@@ -6,6 +6,8 @@ Aplikasi penghubung untuk menambah relasi
 <img src="assets/images/1.png" width="180" alt="Welcome"/>
 <img src="assets/images/2.png" width="180" alt="Login"/>
 <img src="assets/images/3.png" width="180" alt="Register"/>
+</p>
+<p>
 <img src="assets/images/4.png" width="180" alt="Home"/>
 <img src="assets/images/5.png" width="180" alt="Chat"/>
 </p>
