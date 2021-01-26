@@ -27,7 +27,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Contributtors
 
-<img src="https://github.com/rismandev/kost/blob/master/src/assets/demo/me.jpg" width="100" alt=""/>
+<img src="https://github.com/rismandev/rismandev.github.io/blob/master/assets/icons/profile_image.jpeg" width="100" alt=""/>
 
 Risman Abdilah
 
