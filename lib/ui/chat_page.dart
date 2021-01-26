@@ -17,7 +17,7 @@ class _ChatPageState extends State<ChatPage> {
       key: _scaffoldKey,
       appBar: AppBar(
         title: Text(
-          'SkuyChat',
+          'SejutaRelasi',
           style: Theme.of(context)
               .textTheme
               .headline5

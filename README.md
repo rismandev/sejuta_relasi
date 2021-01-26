@@ -1,6 +1,6 @@
-# SejutaRelasi App
+# Aplikasi SejutaRelasi
 
-Aplikasi penghubung untuk menambah relasi
+Menjadi penghubung sejuta manusia untuk bisa menambah relasi.
 
 <p>
 <img src="assets/images/1.png" width="180" alt="Welcome"/>
