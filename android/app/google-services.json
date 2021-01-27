@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737017196068",
+    "project_id": "sejuta-relasi",
+    "storage_bucket": "sejuta-relasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737017196068:android:77135967fc4ec254ecf2b1",
+        "android_client_info": {
+          "package_name": "com.rismandev.sejutaRelasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737017196068-5pb4ol6kv4tahrsjsl2dbkb09b4jsjrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPpJABSvNpBXPkxkEiDnRqqPsDjGLGvG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737017196068-5pb4ol6kv4tahrsjsl2dbkb09b4jsjrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.example.sejuta_relasi
+package com.rismandev.sejutaRelasi
 
 import io.flutter.embedding.android.FlutterActivity
 
